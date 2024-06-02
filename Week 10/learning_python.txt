@@ -1,0 +1,5 @@
+In Python you can automate tasks using scripts.
+In Python you can perform data analysis with libraries like pandas.
+In Python you can build web applications with frameworks like Flask.
+In Python you can create machine learning models with libraries like scikit-learn.
+In Python you can manipulate images with libraries like PIL.
